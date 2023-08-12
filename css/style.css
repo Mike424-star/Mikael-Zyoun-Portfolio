@@ -171,17 +171,20 @@ box-shadow: none;
 .about-content h2{
     text-align: center;
     line-height: 1.2;
+    color: var(--bg-color);
 }
 
 .about-content h3{
     font-size: 2.6rem;
     text-align: center;
+    color: var(--bg-color);
 }
 
 .about-content p {
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
     text-align: center;
+    color: var(--bg-color);
 }
 
 .services h2{
@@ -218,11 +221,14 @@ transition: 2s ease;
 
 .services-box h3{
     font-size: 2.6rem;
+    color: var(--bg-color);
+
 }
 
 .services-box p{
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
+    color: var(--bg-color);
 }
 
 .portfolio{
@@ -231,6 +237,7 @@ background: var(--second-bg-color);
 
 .portfolio h2{
     margin-bottom: 4rem;
+    color: var(--bg-color);
 }
 
 .portfolio-container{
@@ -281,11 +288,13 @@ transform: scale(1.1);
 
 .portfolio-layer h4{
 font-size: 3rem;
+color: var(--bg-color);
 }
 
 .portfolio-layer p{
     font-size: 1.6rem;
     margin: .3rem 0 1rem;
+    color: var(--bg-color);
 }
 
 .portfolio-layer a{
@@ -294,7 +303,7 @@ font-size: 3rem;
     align-items: center;
     width: 5rem;
     height: 5rem;
-    background: var(--text-bg-color);
+    background: var(--bg-color);
     border-radius: 50%;
 
 }
